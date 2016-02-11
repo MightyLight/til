@@ -4,7 +4,7 @@
 ---
 
 ### Categories
-* [3Ds Max](#3Ds Max)
+* [3Ds Max](#3Ds-Max)
 
 ---
 
